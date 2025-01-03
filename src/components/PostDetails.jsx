@@ -128,7 +128,7 @@ function PostDetails() {
           <Typography variant="h4" component="h1" gutterBottom fontWeight="bold">
             User Posts
           </Typography>
-          <Button
+          {/* <Button
             onClick={handleUser}
             sx={{
               position: 'absolute',
@@ -142,7 +142,7 @@ function PostDetails() {
             }}
           >
             ← Back
-          </Button>
+          </Button> */}
         </Box>
 
         {/* Posts Grid */}
