@@ -1,8 +1,28 @@
-# React + Vite
+# User Details
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React application that displays user information in a responsive, material-designed table with modern UI elements.
 
-Currently, two official plugins are available:
+## Live Demo
+[View Live Demo](https://userdetails-as.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Responsive material design table
+- Mobile-friendly with horizontal scrolling
+- Interactive row hover effects
+- Animated loading state
+- Clickable email addresses
+- View posts functionality for each user
+- Modern UI with Material-UI components
+- Smooth transitions and animations
+
+## Technical Stack
+
+- React
+- Material-UI (MUI)
+- React Router DOM
+- REST API Integration
+
+
+
+
